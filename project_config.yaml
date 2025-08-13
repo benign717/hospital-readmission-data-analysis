@@ -1,1 +1,5 @@
+data_raw: "data/raw"
+data_processed: "data/processed"
+model_dir: "models"
+target: "readmitted_30d"
 
